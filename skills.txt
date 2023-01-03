@@ -1,0 +1,8 @@
+Terminal
+GitHub
+Postman
+Charles
+SQL
+Pyton
+JS
+HTML
